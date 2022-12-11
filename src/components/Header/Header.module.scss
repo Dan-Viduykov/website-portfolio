@@ -1,0 +1,26 @@
+@import '@/styles/main.scss';
+
+.header {
+}
+
+.container {
+    display: flex;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.logoText {
+    margin-left: 10px;
+    font-family: $ff-nicoMoji;
+    color: $white;
+    font-size: 18px;
+    line-height: 18px;
+}
+
+.navigation {
+    width: 70%;
+}

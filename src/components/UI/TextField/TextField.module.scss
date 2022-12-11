@@ -1,0 +1,41 @@
+@import '@/styles/main.scss';
+
+.text {
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 21px;
+    color: $text-color;
+}
+
+.text_white {
+    color: #FFFFFF;
+}
+
+.text_orange {    
+    color: #E2A100;
+}
+
+.base {
+    font-size: 20px;
+    line-height: 24px;
+    letter-spacing: 0.01em;
+    color: $white;
+}
+
+.skills {
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.button {
+    font-weight: 700;
+    line-height: 20px;
+    color: $black;
+}
+
+.icon {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 41px;
+    color: #00D639;
+}
