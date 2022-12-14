@@ -1,5 +1,5 @@
 import { FC } from "react";
-import TextField from "../UI/TextField";
+import TextField from "@/UI/Text";
 import styles from "./Navigation.module.scss";
 
 interface NavigationProps {

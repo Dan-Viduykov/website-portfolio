@@ -16,7 +16,7 @@
     
     &:hover {
         & > * {
-            color: $white;
+            color: $c-white;
         }
 
         &::after {
@@ -28,7 +28,7 @@
         content: '';
         width: 0;
         height: 1px;
-        background: $secondary;
+        background: $c-secondary;
         position: absolute;
         bottom: 0;
         left: 0;
